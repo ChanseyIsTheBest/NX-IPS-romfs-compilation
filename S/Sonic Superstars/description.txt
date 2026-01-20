@@ -5,5 +5,5 @@ Sonic Superstars | IPS | romfs | v1.1.8
 -Decreased LOD bias (docked|handheld)
 -Max aniso x8 (docked|handheld)
 -Enabled shadows (4096) (docked|handheld)
+-Enabled 4x MSAA
 
-Notes: Mod tested with the following OC settings CPU 1580 | GPU 921 | RAM 2400 (docked|handheld)
